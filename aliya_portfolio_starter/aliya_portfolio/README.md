@@ -1,30 +1,33 @@
 # Aliya S — Portfolio Website
 
-A responsive personal portfolio built with plain HTML, CSS, and JavaScript.
+A personal portfolio website built to showcase my technical skills, projects, and learning journey as a Computer Science Engineering student.
 
-## Run it locally
-1. Extract the ZIP file.
-2. Open the `aliya_portfolio` folder in Visual Studio Code.
-3. Open `index.html` in a browser. For a smoother development workflow, install the VS Code **Live Server** extension and choose **Open with Live Server**.
+## About
+I'm a B.Tech Computer Science Engineering student interested in software development, artificial intelligence, and cybersecurity. This portfolio serves as a space to document my projects, explore new technologies, and share my progress as a developer.
 
-## Personalise before publishing
-Search in `index.html` and update:
-- `Aliya S` if you want a different display name.
-- The LinkedIn and GitHub links in the Contact section.
-- `your.email@example.com` with your professional email address.
-- The About section and skill descriptions so they accurately reflect your current experience.
-- Project descriptions as your projects develop. They are deliberately marked as concepts/planning-stage projects, not finished products.
+## Built With
+HTML5
+CSS3
+JavaScript
 
-## Publish free with GitHub Pages
-1. Create/sign in to a GitHub account at https://github.com.
-2. Create a new **public** repository named `aliya-portfolio` (or another name you prefer).
-3. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-6. Wait for GitHub Pages to publish the site. The Pages screen will show your public website address.
+## Features
+1 Responsive design for desktop and mobile devices
+2 Introduction and about section
+3 Technical skills showcase
+4 Project portfolio
+5 Contact and professional profile links
 
-## Suggested next upgrades
-- Add your real LinkedIn and GitHub profile URLs.
-- Add a PDF resume.
-- Add screenshots and repository links when projects have working implementations.
-- Keep project claims honest and specific.
+## Projects
+
+OfflineMind
+An early-stage project concept exploring an AI assistant that remains useful in environments with limited or no internet connectivity.
+
+Interest-Based Connections
+A web application concept focused on helping people discover like-minded individuals through shared interests and learning goals.
+
+Both projects are currently in the planning stage.
+
+What's Next
+Develop and document more projects.
+Improve my programming and web development skills.
+Explore AI and cybersecurity through hands-on learning.
